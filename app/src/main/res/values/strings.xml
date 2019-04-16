@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServiceRollNcode</string>
+        <string name="viewTime">Время последнего запуска сервиса:</string>
+        <string name="viewCount">Значение счетчика:</string>
+        <string name="buttonOn">Вкл. Сервис</string>
+        <string name="buttonOff">Выкл. Сервис</string>
+
+
+</resources>
